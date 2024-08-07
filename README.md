@@ -27,4 +27,5 @@
         register: limpia2
       - debug: msg="{{ limpia2.stdout_lines }}"
 #hola rama1
+#hola merge 2
 
